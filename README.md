@@ -29,4 +29,3 @@ Skills Demonstrated
 - Control flow (if/elif/else statements)
 - Functions
 - Basic game loop and state management
-- Iterating on a project and adding new features
